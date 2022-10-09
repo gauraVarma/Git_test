@@ -1,5 +1,2 @@
 Pandas
 Numpy
-Python 
-Power BI
-## Aforementioned details are requirement for this project
